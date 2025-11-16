@@ -14,6 +14,19 @@
 
 <!-- STATUS_START -->
 
+## Live Status
+
+<div align="center">
+
+| Current DP | Next DP | Status |
+|:----------:|:-------:|:------:|
+| <img src="./assets/images/5.png" width="150" alt="Current DP"> | <img src="./assets/images/6.png" width="150" alt="Next DP"> | ⏰ **In ~9h 19m** |
+| **Image 5 of 11** | **Image 6 of 11** | Next: 12:39  IST |
+
+**Last Updated:** Just now • **Total Images:** 11
+
+</div>
+
 <!-- STATUS_END -->
 
 ## Quick Setup
