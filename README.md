@@ -21,7 +21,7 @@
 | Current DP | Next DP | Next Change Scheduled |
 |:----------:|:-------:|:--------------------:|
 | <img src="./assets/images/10.png" width="150" alt="Current DP"> | <img src="./assets/images/11.png" width="150" alt="Next DP"> | 📅 **Dec 03, 2025**<br>🕐 **07:08 AM IST** |
-| **Image 10 of 11** | **Image 11 of 11** | Last updated: Just now |
+| **Image 10 of 11** | **Image 11 of 11** | Last updated: 16 mins ago |
 
 **Total Images:** 11
 
