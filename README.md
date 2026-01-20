@@ -20,8 +20,8 @@
 
 | Current DP | Next DP | Next Change Scheduled |
 |:----------:|:-------:|:--------------------:|
-| <img src="./assets/images/10.png" width="150" alt="Current DP"> | <img src="./assets/images/11.png" width="150" alt="Next DP"> | 📅 **Jan 20, 2026**<br>🕐 **09:08 AM IST** |
-| **Image 10 of 11** | **Image 11 of 11** | Last updated: 5 hours ago |
+| <img src="./assets/images/11.png" width="150" alt="Current DP"> | <img src="./assets/images/1.png" width="150" alt="Next DP"> | 📅 **Jan 20, 2026**<br>🕐 **12:49 PM IST** |
+| **Image 11 of 11** | **Image 1 of 11** | Last updated: Just now |
 
 **Total Images:** 11
 
