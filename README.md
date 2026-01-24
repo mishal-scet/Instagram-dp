@@ -21,7 +21,7 @@
 | Current DP | Next DP | Next Change Scheduled |
 |:----------:|:-------:|:--------------------:|
 | <img src="./assets/images/6.png" width="150" alt="Current DP"> | <img src="./assets/images/7.png" width="150" alt="Next DP"> | 📅 **Jan 24, 2026**<br>🕐 **09:54 PM IST** |
-| **Image 6 of 11** | **Image 7 of 11** | Last updated: 32 mins ago |
+| **Image 6 of 11** | **Image 7 of 11** | Last updated: 2 hours ago |
 
 **Total Images:** 11
 
