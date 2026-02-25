@@ -21,7 +21,6 @@
     },
     "last_login": null,
     "device_settings": {
-        "app_version": "269.0.0.18.75",
         "android_version": 26,
         "android_release": "8.0.0",
         "dpi": "480dpi",
@@ -30,6 +29,7 @@
         "device": "devitron",
         "model": "6T Dev",
         "cpu": "qcom",
+        "app_version": "269.0.0.18.75",
         "version_code": "314665256"
     },
     "user_agent": "Instagram 410.0.0.0.96 Android (33/13; 480dpi; 1080x2400; xiaomi; M2007J20CG; surya; qcom; en_US; 641123490)",
