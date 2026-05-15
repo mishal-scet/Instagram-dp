@@ -48,5 +48,7 @@
         502,
         503,
         504
-    ]
+    ],
+    "public_transport": "requests",
+    "public_transport_impersonate": "chrome136"
 }
